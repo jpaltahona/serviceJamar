@@ -1,0 +1,432 @@
+{
+    "id": 2957644955761,
+    "email": "jpaltahonacc@gmail.com",
+    "closed_at": null,
+    "created_at": "2020-12-03T17:28:35-05:00",
+    "updated_at": "2020-12-03T17:28:37-05:00",
+    "number": 141,
+    "note": "{\"fee\":0,\"date\":\"2020-12-10\",\"department\":\"AT\",\"city\":\"BQ\",\"department_name\":\"Atlantico \",\"city_name\":\"Barranquilla\",\"neighborhood\":\"183\"}",
+    "token": "0a0557e578feeb1a76b096b6d072f1a4",
+    "gateway": "bogus",
+    "test": true,
+    "total_price": "2780000.00",
+    "subtotal_price": "2780000.00",
+    "total_weight": 0,
+    "total_tax": "362608.70",
+    "taxes_included": true,
+    "currency": "COP",
+    "financial_status": "paid",
+    "confirmed": true,
+    "total_discounts": "18219999.00",
+    "total_line_items_price": "20000000.00",
+    "cart_token": "36fb658aa5278c7e0cfb9ffb1c479a9a",
+    "buyer_accepts_marketing": false,
+    "name": "#1141",
+    "referring_site": "",
+    "landing_site": "",
+    "cancelled_at": null,
+    "cancel_reason": null,
+    "total_price_usd": "789.43",
+    "checkout_token": "cc7f3204994154d564d017b98722d3d0",
+    "reference": null,
+    "user_id": null,
+    "location_id": null,
+    "source_identifier": null,
+    "source_url": null,
+    "processed_at": "2020-12-03T17:28:32-05:00",
+    "device_id": null,
+    "phone": null,
+    "customer_locale": "es",
+    "app_id": 580111,
+    "browser_ip": "191.156.67.100",
+    "client_details": {
+        "accept_language": "en-US,en;q=0.9,es;q=0.8,gl;q=0.7",
+        "browser_height": 789,
+        "browser_ip": "191.156.67.100",
+        "browser_width": 1440,
+        "session_hash": null,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+    },
+    "landing_site_ref": null,
+    "order_number": 1141,
+    "discount_applications": [
+        {
+            "type": "script",
+            "value": "17220000.0",
+            "value_type": "fixed_amount",
+            "allocation_method": "one",
+            "target_selection": "explicit",
+            "target_type": "line_item",
+            "title": "Ajuste de precio",
+            "description": "Ajuste de precio"
+        },
+        {
+            "type": "script",
+            "value": "999999.0",
+            "value_type": "fixed_amount",
+            "allocation_method": "one",
+            "target_selection": "explicit",
+            "target_type": "shipping_line",
+            "title": "",
+            "description": ""
+        }
+    ],
+    "discount_codes": [],
+    "note_attributes": [
+        {
+            "name": "region_code",
+            "value": "AT"
+        },
+        {
+            "name": "region_name",
+            "value": "ATLANTICO"
+        },
+        {
+            "name": "region_can_buy",
+            "value": "true"
+        }
+    ],
+    "payment_details": {
+        "credit_card_bin": "1",
+        "avs_result_code": null,
+        "cvv_result_code": null,
+        "credit_card_number": "•••• •••• •••• 1",
+        "credit_card_company": "Bogus"
+    },
+    "payment_gateway_names": [
+        "bogus"
+    ],
+    "processing_method": "direct",
+    "checkout_id": 15167758532721,
+    "source_name": "web",
+    "fulfillment_status": null,
+    "tax_lines": [
+        {
+            "price": "362608.70",
+            "rate": 0.15,
+            "title": "VAT",
+            "price_set": {
+                "shop_money": {
+                    "amount": "362608.70",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "362608.70",
+                    "currency_code": "COP"
+                }
+            }
+        }
+    ],
+    "tags": "",
+    "contact_email": "jpaltahonacc@gmail.com",
+    "order_status_url": "https://jamar-staging-plus-test.myshopify.com/7073235057/orders/0a0557e578feeb1a76b096b6d072f1a4/authenticate?key=dc8f3eb7df631e16d3142d2109b55904",
+    "presentment_currency": "COP",
+    "total_line_items_price_set": {
+        "shop_money": {
+            "amount": "20000000.00",
+            "currency_code": "COP"
+        },
+        "presentment_money": {
+            "amount": "20000000.00",
+            "currency_code": "COP"
+        }
+    },
+    "total_discounts_set": {
+        "shop_money": {
+            "amount": "18219999.00",
+            "currency_code": "COP"
+        },
+        "presentment_money": {
+            "amount": "18219999.00",
+            "currency_code": "COP"
+        }
+    },
+    "total_shipping_price_set": {
+        "shop_money": {
+            "amount": "999999.00",
+            "currency_code": "COP"
+        },
+        "presentment_money": {
+            "amount": "999999.00",
+            "currency_code": "COP"
+        }
+    },
+    "subtotal_price_set": {
+        "shop_money": {
+            "amount": "2780000.00",
+            "currency_code": "COP"
+        },
+        "presentment_money": {
+            "amount": "2780000.00",
+            "currency_code": "COP"
+        }
+    },
+    "total_price_set": {
+        "shop_money": {
+            "amount": "2780000.00",
+            "currency_code": "COP"
+        },
+        "presentment_money": {
+            "amount": "2780000.00",
+            "currency_code": "COP"
+        }
+    },
+    "total_tax_set": {
+        "shop_money": {
+            "amount": "362608.70",
+            "currency_code": "COP"
+        },
+        "presentment_money": {
+            "amount": "362608.70",
+            "currency_code": "COP"
+        }
+    },
+    "line_items": [
+        {
+            "id": 6136310890609,
+            "variant_id": 32208218652785,
+            "title": "Alcoba Doble Marbella Eurolino Marfil, Natural y Taupe",
+            "quantity": 1,
+            "sku": "7017734",
+            "variant_title": "",
+            "vendor": "jamar-staging-plus-test",
+            "fulfillment_service": "manual",
+            "product_id": 4621676085361,
+            "requires_shipping": true,
+            "taxable": true,
+            "gift_card": false,
+            "name": "Alcoba Doble Marbella Eurolino Marfil, Natural y Taupe",
+            "variant_inventory_management": null,
+            "properties": [
+                {
+                    "name": "_price_custom",
+                    "value": "2780000"
+                },
+                {
+                    "name": "_shipping_price",
+                    "value": "0"
+                }
+            ],
+            "product_exists": true,
+            "fulfillable_quantity": 1,
+            "grams": 0,
+            "price": "20000000.00",
+            "total_discount": "17220000.00",
+            "fulfillment_status": null,
+            "pre_tax_price": "2417391.30",
+            "price_set": {
+                "shop_money": {
+                    "amount": "20000000.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "20000000.00",
+                    "currency_code": "COP"
+                }
+            },
+            "pre_tax_price_set": {
+                "shop_money": {
+                    "amount": "2417391.30",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "2417391.30",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discount_set": {
+                "shop_money": {
+                    "amount": "17220000.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "17220000.00",
+                    "currency_code": "COP"
+                }
+            },
+            "discount_allocations": [
+                {
+                    "amount": "17220000.00",
+                    "discount_application_index": 0,
+                    "amount_set": {
+                        "shop_money": {
+                            "amount": "17220000.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "17220000.00",
+                            "currency_code": "COP"
+                        }
+                    }
+                }
+            ],
+            "tax_lines": [
+                {
+                    "title": "VAT",
+                    "price": "362608.70",
+                    "rate": 0.15,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "362608.70",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "362608.70",
+                            "currency_code": "COP"
+                        }
+                    }
+                }
+            ],
+            "origin_location": {
+                "id": 692657553521,
+                "country_code": "CO",
+                "province_code": "ATL",
+                "name": "jamar-staging-plus-test",
+                "address1": "dir",
+                "address2": "",
+                "city": "Barranquilla",
+                "zip": "018001"
+            },
+            "destination_location": {
+                "id": 2523424620657,
+                "country_code": "CO",
+                "province_code": "ATL",
+                "name": "Jean Altahona",
+                "address1": "calle 54 # 3D - 43",
+                "address2": "calle 54 # 3D - 43",
+                "city": "BARRANQUILLA",
+                "zip": "080010"
+            }
+        }
+    ],
+    "fulfillments": [],
+    "refunds": [],
+    "total_tip_received": "0.0",
+    "shipping_lines": [
+        {
+            "id": 2391970775153,
+            "title": "Envío",
+            "price": "999999.00",
+            "code": "Envío",
+            "source": "shopify",
+            "phone": null,
+            "requested_fulfillment_service_id": null,
+            "delivery_category": null,
+            "carrier_identifier": null,
+            "discounted_price": "0.00",
+            "price_set": {
+                "shop_money": {
+                    "amount": "999999.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "999999.00",
+                    "currency_code": "COP"
+                }
+            },
+            "discounted_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "discount_allocations": [
+                {
+                    "amount": "999999.00",
+                    "discount_application_index": 1,
+                    "amount_set": {
+                        "shop_money": {
+                            "amount": "999999.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "999999.00",
+                            "currency_code": "COP"
+                        }
+                    }
+                }
+            ],
+            "tax_lines": []
+        }
+    ],
+    "billing_address": {
+        "first_name": "Jean",
+        "address1": "calle 54 # 3D - 43",
+        "phone": "3112405413",
+        "city": "BARRANQUILLA",
+        "zip": "080010",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "last_name": "Altahona",
+        "address2": "calle 54 # 3D - 43",
+        "company": "1044616885",
+        "latitude": 10.9317024,
+        "longitude": -74.8068454,
+        "name": "Jean Altahona",
+        "country_code": "CO",
+        "province_code": "ATL"
+    },
+    "shipping_address": {
+        "first_name": "Jean",
+        "address1": "calle 54 # 3D - 43",
+        "phone": "3112405413",
+        "city": "BARRANQUILLA",
+        "zip": "080010",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "last_name": "Altahona",
+        "address2": "calle 54 # 3D - 43",
+        "company": "1044616885",
+        "latitude": 10.9317024,
+        "longitude": -74.8068454,
+        "name": "Jean Altahona",
+        "country_code": "CO",
+        "province_code": "ATL"
+    },
+    "customer": {
+        "id": 3737887998065,
+        "email": "jpaltahonacc@gmail.com",
+        "accepts_marketing": false,
+        "created_at": "2020-12-03T17:25:24-05:00",
+        "updated_at": "2020-12-03T17:28:36-05:00",
+        "first_name": "Jean",
+        "last_name": "Altahona",
+        "orders_count": 0,
+        "state": "disabled",
+        "total_spent": "0.00",
+        "last_order_id": null,
+        "note": null,
+        "verified_email": true,
+        "multipass_identifier": null,
+        "tax_exempt": false,
+        "phone": null,
+        "tags": "",
+        "last_order_name": null,
+        "currency": "COP",
+        "accepts_marketing_updated_at": "2020-12-03T17:25:24-05:00",
+        "marketing_opt_in_level": null,
+        "default_address": {
+            "id": 4238614593649,
+            "customer_id": 3737887998065,
+            "first_name": "Jean",
+            "last_name": "Altahona",
+            "company": "1044616885",
+            "address1": "calle 54 # 3D - 43",
+            "address2": "calle 54 # 3D - 43",
+            "city": "BARRANQUILLA",
+            "province": "Atlántico",
+            "country": "Colombia",
+            "zip": "080010",
+            "phone": "3112405413",
+            "name": "Jean Altahona",
+            "province_code": "ATL",
+            "country_code": "CO",
+            "country_name": "Colombia",
+            "default": true
+        }
+    }
+}

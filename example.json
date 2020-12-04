@@ -1,0 +1,76 @@
+{
+    "order": {
+        "additional_data": [
+            "",
+            {
+                "label": "id_sales_origin",
+                "value": 1,
+                "data": {}
+            }
+        ],
+        "agency_code": "01",
+        "client_takes": "S",
+        "client_type": "TJ",
+        "delivery_date": "2020-12-01",
+        "dues": 40,
+        "edit": "N",
+        "fee_value": 7926,
+        "initial_fee": 0,
+        "original": null,
+        "quote": "N",
+        "seller_code": "834",
+        "separate_invoices": "S",
+        "session_user": "",
+        "t_plan": "N",
+        "user_app": "FCHARRIS",
+        "value": 317040,
+        "observation": ""
+    },
+    "client": {
+        "address": "CL. 34 # 39 - 66 2 PISO",
+        "cellphone": "3017371211",
+        "cellphone1": null,
+        "cellphone2": null,
+        "city_code": "BQ",
+        "email": "gydgey@gmail.com",
+        "first_name": "OSCAR",
+        "identification": "CC::1234567",
+        "neighborhood_code": "02",
+        "second_name": "",
+        "second_surname": "",
+        "state_code": "AT",
+        "surname": "RUIZ"
+    },
+    "products": [
+        {
+            "bonus_code": "",
+            "discount": 0,
+            "dues": 40,
+            "father": 0,
+            "fee_value": 0,
+            "gifts": [],
+            "promotion_code": "",
+            "quantity": 1,
+            "regular_value": 317040,
+            "sequence": 20,
+            "sku": "7016272",
+            "unit_value": 317040
+        }
+    ],
+    "services": [
+        {
+            "service_code": "01",
+            "service_name": "DELIVERY",
+            "service_price": 0
+        }
+    ],
+    "dispatch": {
+        "address": "CL. 34 # 39 - 66 2 PISO",
+        "city_code": "BQ",
+        "indications": "",
+        "neighborhood_code": "02",
+        "phone": "3017371211",
+        "state_code": "AT",
+        "zone_code": "00"
+    }
+}
